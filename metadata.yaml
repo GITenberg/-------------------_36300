@@ -1,0 +1,35 @@
+_repo: '-------------------_36300'
+_version: 0.1.0
+alternative_title: Short Stories, New Series
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Axiotes, Pan. (Panagiotes)
+    aliases:
+    - Axiotes, Panagiotes
+    - Axiotis, Panagiotis
+    - Αξιώτης, Παναγιώτης
+    birthdate: 1840
+    deathdate: 1918
+    gutenberg_agent_id: '38185'
+    url: http://www.gutenberg.org/2009/agents/38185
+description: ''
+gutenberg_issued: '2011-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36300'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Greek'
+- !lcc 'PA'
+- !lcsh 'Greek fiction, Modern'
+tableOfContents: Παππά Συνέσιος -- Κίρκη -- Αντωνέλλος -- Εις το χείλος κρημνού --
+  Δεκοχτούρα -- Παραμονή Πάσχα -- Εκ των ανεξηγήτων -- Ο Σχεδιαστής -- Η αντίζηλος
+  -- Το πανηγύρι της Γιαγιάς.
+title: Διηγήματα, Νέα Σειρά
+url: http://www.gutenberg.org/ebooks/36300
